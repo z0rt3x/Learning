@@ -1,0 +1,11 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.pending {
+  color: red;
+}
+
+.done {
+  color: green;
+}
